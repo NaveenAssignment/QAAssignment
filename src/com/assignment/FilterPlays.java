@@ -59,30 +59,4 @@ public class FilterPlays {
 
  		
  		
- 		/*boolean contains(List<?> List, List<?> list) 
-	 		{
-	 			boolean flag=Collections.indexOfSubList(List, list) != -1;
-	 			System.out.println(flag);
-				return flag;
-				
-	 		}*/
- 		/*
- 		boolean contains = true;
-		int l2 = list.size();
-		int currIndex = -1;
-		for(int j=0;j<l2;j++) {
-			String e2 = list.get(j);
-		}
-		int i1 = List.indexOf(e2);
-		if(i1 == -1) {
-	        contains = false;
-	        break;
-	        }
-	    if(i1 > currIndex) {
-	        currIndex = i1;
-	    	}
-	
-	    System.out.println(contains);
-	    }*/
-			
-	
+ 	
