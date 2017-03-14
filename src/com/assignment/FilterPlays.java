@@ -33,7 +33,7 @@ public class FilterPlays {
 		  list.add("Shooting");
 		  list.add("Fouls");
 		  list.add("Turnovers");
-		//sSystem.out.println(list);  	
+		
 		ArrayList<String> list2=new ArrayList<String>();
 		java.util.List<WebElement> List = driver.findElements(By.xpath("//li[2][@class='force-scrollbar']/div"));
  		for(int i=0;i<List.size();i++)
